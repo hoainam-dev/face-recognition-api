@@ -60,8 +60,4 @@ def execute_recognition():
 
 
 if __name__ == '__main__':
-<<<<<<< HEAD
-    app.run()
-=======
     serve(app, host="0.0.0.0", port=8080)
->>>>>>> 02adc0efe4ee516ba821b64ea17d6f88eb194a0d
